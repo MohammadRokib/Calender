@@ -1,0 +1,30 @@
+.first{
+    background-color: aqua;
+    margin-bottom: 15px;
+}
+
+.second{
+    background-color: yellow;
+}
+
+h1 {
+    background-color: brown;
+}
+
+span {
+    background-color: blueviolet;
+}
+
+a {
+    background-color: chocolate;
+}
+
+.second h1 {
+    display: inline;
+}
+.second span {
+    display: block;
+}
+.second a {
+    display: block;
+}
